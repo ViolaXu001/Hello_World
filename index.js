@@ -1,4 +1,4 @@
-document.getElementById("generate-meal-plan").addEventListener("click", function() {
+ldocument.getElementById("Hello_World").addEventListener("click", function() {
     const age = document.getElementById("age").value;
 
     fetch("/getMealPlan", {
